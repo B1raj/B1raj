@@ -17,7 +17,7 @@ Many thanks for visiting my profile. Below are few details about me :)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <hr>
-![Biraj's Github Profile Views](https://komarev.com/ghpvc/?username=B1raj&color=blueviolet&style=flat-square)  
+
 
 <!-- ----------- TECH STACK SECTION END------------ -->
 
@@ -36,6 +36,7 @@ Many thanks for visiting my profile. Below are few details about me :)
 
 <a href="https://www.linkedin.com/in/biraj-kumar-mishra-05bb4454/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Biraj_linkedIn"/></a> 
 
+![Biraj's Github Profile Views](https://komarev.com/ghpvc/?username=B1raj&color=blueviolet&style=flat-square)  
 
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
 
