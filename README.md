@@ -33,6 +33,7 @@ Many thanks for visiting my profile. Below are few details about me :)
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ 
 
+<a href="https://www.linkedin.com/in/biraj-kumar-mishra-05bb4454/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Biraj_linkedIn"/></a> 
 
 
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
