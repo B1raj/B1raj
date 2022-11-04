@@ -1,4 +1,3 @@
-# This page is under Construction!
 
 ## Hello there, 👋 I am Biraj.
 
