@@ -1,8 +1,7 @@
 
 ## Hello there, 👋 I am Biraj.
 
-https://d22y0q1m43bzjo.cloudfront.net/?folder=/workshop&tkn=6jF38XacDcchLgqs
-https://d22y0q1m43bzjo.cloudfront.net/ports/4000/login
+
 
 
 
